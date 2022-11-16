@@ -4,6 +4,7 @@ public class HelloWorld {
         System.out.println("new line from main");
         System.out.println("new line from main 1-2");
         System.out.println("new line from main rebase");
-        
+
+        System.out.println("practicing rebase");
     }
 }
